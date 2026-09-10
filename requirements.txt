@@ -1,0 +1,17 @@
+streamlit
+crewai[tools]
+crewai
+langchain
+langchain_ollama
+langchain-community
+langchain-openai
+langchain-huggingface
+crewai_tools
+ddgs
+duckduckgo-search
+python-dotenv
+pysqlite3-binary; sys_platform != 'win32'
+sentence-transformers
+faiss-cpu
+litellm
+
